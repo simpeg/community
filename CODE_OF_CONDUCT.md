@@ -56,7 +56,8 @@ further defined and clarified by project maintainers.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the project team at conduct@simpeg.xyz; this email is 
-accessible by @lheagy and @rowanc1. All complaints will be reviewed and investigated 
+accessible by [@lheagy](https://github.com/lheagy) and [@rowanc1](https://github.com/rowanc1). 
+All complaints will be reviewed and investigated 
 and will result in a response that is deemed necessary and appropriate to the 
 circumstances. The project team is obligated to maintain confidentiality with regard 
 to the reporter of an incident. Further details of specific enforcement policies may 
