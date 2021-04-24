@@ -38,7 +38,7 @@ The current project directors are:
 
 This person is responsible for planning, organization, and direction of the organization's operations and programs. There is an expectation that this person invests efforts in community & organizational strategy as well as in working with the community to develop and act on the long-term vision of the project.
 
-This person also fulfills the role of a BDFL (Benevolent Dictator for Life) as is common in other open-source projects. As Dictator, they, have the authority to make all final decisions for The Project. As Benevolent, they, in practice, chooses to defer that authority to the consensus of the community discussion channels (see below). It is expected, and in the past has been the case, that the Managing Director will only rarely assert his/her final authority. Because rarely used, we refer to the Managing Director’s final authority as a “special” or “overriding” vote. When it does occur, the Managing Director override typically happens in situations where there is a deadlock in building concensus among the Community. The Project encourages others to fork the project if they disagree with the overall direction the Managing Director is taking. The Managing Director may delegate his/her authority on a particular decision or set of decisions to any other Contributor at his/her discretion.
+This person also fulfills the role of a BDFL (Benevolent Dictator for Life) as is common in other open-source projects. As Dictator, they, have the authority to make all final decisions for The Project. As Benevolent, they, in practice, chooses to defer that authority to the consensus of the community discussion channels (see below). It is expected, and in the past has been the case, that the BDFL will only rarely assert his/her final authority. Because rarely used, we refer to the Managing Director’s final authority as a “special” or “overriding” vote. When it does occur, the BDFL override typically happens in situations where there is a deadlock in building concensus among the Community. The Project encourages others to fork the project if they disagree with the overall direction the Managing Director is taking. The Managing Director may delegate his/her authority on a particular decision or set of decisions to any other Contributor at his/her discretion.
 
 The Managing Director can appoint his/her successor, but it is expected that the Community (through the community discussion channels) would be consulted on this decision. If the Managing Director is unable to appoint a successor, the Founding Team will make this decision - preferably by consensus, but if needed, by a majority vote.
 
@@ -46,16 +46,40 @@ Note that the Managing Director can step down at any time, and acting in good fa
 
 ### Director of Operations 
 
-This person oversees and manages an organization's day-to-day operations to ensure the organization achieves its objectives. This person coordinates maintenance & development, for example facilitating pull request reviews and software releases (Note that this doesn’t mean that they have to do all of the PR reviews and releases!). There is an expectation that this person invests in the technical and architectural strategy of the project. 
+This person oversees and manages an organization's day-to-day operations to ensure the organization achieves its objectives. This person coordinates maintenance & development, for example facilitating pull request reviews and software releases. Note that this doesn’t mean that they have to do all of the Pull Request Reviews and Releases; they can delegate or request involvement from other Project Contributors. There is an expectation that this person invests in the technical and architectural strategy of the project. 
+
+The Director of Operations and the Managing Director have the authority to grant (and revoke if necessary) access and administrative access to SimPEG repositories and associated resources. 
 
 ### Community Discussion Channels 
 
+Conversation and consensus building are an important part of SimPEG governance, and thus here, we specify the main communication channels used by the Project. 
+- The [SimPEG slack](http://slack.simpeg.xyz/) is the main place for day-to-day communication and chat. This is where meeting links are circulated, and development discussions prompted.
+- Meetings are held weekly. The video-conferencing link is circulated in the #meetings channel on slack prior to the meeting. All meetings are recorded and available on [youtube](https://www.youtube.com/playlist?list=PLd9tNwsUm9jOagLQEnxdeIPE4L4bx5Ujg)
+- [Discourse](https://simpeg.discourse.group/) is used as a forum for asking and answering questions among the community. 
+
 ### Institutional Partners
 
+Multiple stakeholders from academia, industry, and non-profit sectors participate in The Project as contributors and community members. No outside institution, individual, or legal entity has the ability to own, control, usurp, or influence the project other than by participating in the Project as Contributors. However, because institutions can be an important funding mechanism for the Project and people who contribute to it, it is important to formally acknowledge institutional participation in the project. These are Institutional Partners.
 
-### Updates to Governance
+An Institutional Contributor is any individual Project Contributor who contributes to the project as part of their official duties at an Institutional. An Institutional Partner is any recognized legal entity in any country that employs at least 1 Institutional Contributor. Institutional Partners can be for-profit or non-profit entities.
 
-We will hold an annual meeting dedicated to discussions of project governance in TODO:Month. At these meetings, we will review governance documents including this document and project roadmaps. Anyone is welcome to join these meetings. The authority to change the governance model is held by the Managing Director, but any changes to the governance model will be done in a consensus building process with the Managing Director, Project Contributors and the Community. 
+Institutions become eligible to become an Institutional Partner by employing individuals who actively contribute to The Project as part of their official duties. To state this another way, the only way for a Partner to influence the project is by actively contributing to the open development of the project, in equal terms to any other member of the community of Contributors. Merely using Project Software in institutional context does not allow an entity to become an Institutional Partner. Financial gifts do not enable an entity to become an Institutional Partner. However, they can be acknowledged on the SimPEG website. Once an institution becomes eligible for Institutional Partnership, any Contributor can nominate them; nominations are approved by the Managing Director.
+
+If, at some point, an existing Institutional Partner stops having any contributing employees, then a one year grace period commences. If, at the end of this one-year period, they continue not to have any contributing employees, then their Institutional Partnership will lapse, and resuming it will require going through the normal process for new Partnerships.
+
+An Institutional Partner is free to pursue funding for their work on The Project through any legal means. This could involve a non-profit organization raising money from private foundations and donors or a for-profit company building proprietary products and services that leverage Project Software and Services. Funding acquired by Institutional Partners to work on The Project is called Institutional Funding. However, no funding obtained by an Institutional Partner can override the Managing Director. If a Partner has funding to do SimPEG work and the Community and Managing Director decides to not pursue that work as a project, the Partner is free to pursue it on their own. However, in this situation, that part of the Partner’s work will not be under the SimPEG umbrella and cannot use the Project trademarks in any way that suggests a formal relationship.
+
+Institutional Partner benefits are:
+- acknowledgement on the SimPEG website and in talks
+- ability to acknowledge their own funding sources on the SimPEG website and in talks
+- ability to influence the project through the participation
+- invitation of the Council Members to SciPy Developer Meetings
+
+A list of current Institutional Partners is maintained at TODO.
+
+### Changes to Governance
+
+We will hold an annual meeting dedicated to discussions of project governance in TODO:Month. At these meetings, we will review governance documents including this document and project roadmaps. Anyone is welcome to join these meetings. The authority to change the governance model is held by the Managing Director, but any changes to the governance model will be done in a consensus building process between the Managing Director, Project Contributors and the Community. 
 
 Suggestions to governance processes can always be raised in the interm at weekly meetings, in the #governance channel on [slack](http://slack.simpeg.xyz), or directly to the project directors. 
 
