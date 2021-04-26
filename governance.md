@@ -73,7 +73,7 @@ Institutional Partner benefits are:
 - acknowledgement on the SimPEG website and in talks
 - ability to acknowledge their own funding sources on the SimPEG website and in talks
 - ability to influence the project through the participation
-- invitation of the Council Members to SciPy Developer Meetings
+- invitation of the Council Members to SimPEG Developer Meetings
 
 A list of current Institutional Partners is maintained at TODO.
 
