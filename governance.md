@@ -19,7 +19,7 @@ This section describes the governance and leadership model of The Project.
 The Project roles are:
 - Founders
 - Managing Director
-- Director of Operations
+- Director(s) of Operations
 - Contributors
 - Community
 
@@ -32,7 +32,7 @@ The project founders are the people who started SimPEG. They hold no special aut
 ### Current Directors 
 The current project directors are:
 - Managing Director: Lindsey Heagy ([@lheagy](https://github.com/lheagy))
-- Director of Operations: Joe Capriotti ([@jcapriot](https://github.com/jcapriot))
+- Director(s) of Operations: Joe Capriotti ([@jcapriot](https://github.com/jcapriot)) and Santiago Soler ([@santisoler](https://github.com/santisoler))
 
 ### Managing Director
 
@@ -44,9 +44,9 @@ The Managing Director can appoint their successor, but it is expected that the C
 
 Note that the Managing Director can step down at any time, and acting in good faith, will also listen to serious calls to do so. 
 
-### Director of Operations 
+### Director(s) of Operations 
 
-This person oversees and manages an organization's day-to-day operations to ensure the organization achieves its objectives. This person coordinates maintenance & development, for example facilitating pull request reviews and software releases. Note that this doesn’t mean that they have to do all of the Pull Request Reviews and Releases; they can delegate or request involvement from other Project Contributors. There is an expectation that this person invests in the technical and architectural strategy of the project. 
+This person(s) oversees and manages an organization's day-to-day operations to ensure the organization achieves its objectives. This person(s) coordinates maintenance & development, for example facilitating pull request reviews and software releases. Note that this doesn’t mean that they have to do all of the Pull Request Reviews and Releases; they can delegate or request involvement from other Project Contributors. There is an expectation that this person(s) invests in the technical and architectural strategy of the project. 
 
 The Director of Operations and the Managing Director have the authority to grant (and revoke if necessary) access and administrative access to SimPEG repositories and associated resources. 
 
