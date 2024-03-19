@@ -53,8 +53,8 @@ The Director of Operations and the Managing Director have the authority to grant
 ### Community Discussion Channels 
 
 Conversation and consensus building are an important part of SimPEG governance, and thus here, we specify the main communication channels used by The Project. 
-- The [SimPEG slack](http://slack.simpeg.xyz/) is the main place for day-to-day communication and chat. This is where meeting links are circulated, and development discussions prompted.
-- Meetings are held weekly. The video-conferencing link is circulated in the #meetings channel on slack prior to the meeting. All meetings are recorded and available on [youtube](https://www.youtube.com/playlist?list=PLd9tNwsUm9jOagLQEnxdeIPE4L4bx5Ujg)
+- The [SimPEG Mattermost Team][mattermost] is the main place for day-to-day communication and chat. This is where meeting links are circulated, and development discussions prompted.
+- Meetings are held weekly. The video-conferencing link is circulated in the #meetings channel on Mattermost prior to the meeting. All meetings are recorded and available on [youtube](https://www.youtube.com/playlist?list=PLd9tNwsUm9jOagLQEnxdeIPE4L4bx5Ujg)
 - [Discourse](https://simpeg.discourse.group/) is used as a forum for asking and answering questions among the community. 
 
 ### Institutional Partners
@@ -81,7 +81,7 @@ A list of current Institutional Partners is maintained at TODO.
 
 We will hold an annual meeting dedicated to discussions of project governance in TODO:Month. At these meetings, we will review governance documents including this document and project roadmaps. Anyone is welcome to join these meetings. The authority to change the governance model is held by the Managing Director, but any changes to the governance model will be done in a consensus building process between the Managing Director, Project Contributors and the Community. 
 
-Suggestions to governance processes can always be raised in the interm at weekly meetings, in the #governance channel on [slack](http://slack.simpeg.xyz), or directly to the project directors. 
+Suggestions to governance processes can always be raised in the interm at weekly meetings, in the `~governance` channel on [Mattermost][mattermost], or directly to the project directors. 
 
 ## Document History
 
@@ -96,3 +96,6 @@ Substantial portions of this document were adapted from the [Jupyter/IPython pro
 ## License 
 
 To the extent possible under law, the authors have waived all copyright and related or neighboring rights to the SimPEG project governance document, as per the [CC-0 public domain dedication / license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+
+[mattermost]: https://mattermost.softwareunderground.org/simpeg
