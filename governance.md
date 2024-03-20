@@ -21,6 +21,7 @@ The Project roles are:
 - BDFL
 - Maintainers
 - Owners
+- Distinguished Contributors
 - Community
 
 ### Founders 
@@ -59,6 +60,13 @@ Owners have the permissions as outlined in the [GitHub docs](https://docs.github
 These people are the “Owners” of the SimPEG GitHub organization: 
 - Rowan Cockett ([@rowanc1](https://github.com/rowanc1))
 - Lindsey Heagy ([@lheagy](https://github.com/lheagy))
+
+### Distinguished Contributors 
+SimPEG Distinguished Contributors are a group of SimPEG community members who have gone above and beyond in their support of the project over the years, making substantial and sustained contributions in any area of activity (software development, documentation, community engagement, events, etc.). The SimPEG community confers membership in this group as a way of recognizing and celebrating their efforts as well as thanking these community members for their contributions.
+
+The SimPEG distinguished contributors can be viewed here: TODO
+
+Nominations to the SimPEG distinguished contributors can be made at any time. For the inaugural year, nominations are submitted to the project Founders by email (info@simpeg.xyz; subject: SimPEG Distinguished Contributor Nomination). Nominations should include a brief description of the contributions of the nominee and a citation that will be included in the SimPEG distinguished contributors page to celebrate their contributions. 
 
 ### Community Discussion Channels 
 
