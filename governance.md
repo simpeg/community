@@ -29,7 +29,7 @@ The project founders are the people who started SimPEG. They hold no special aut
 - Lindsey Heagy ([@lheagy](https://github.com/lheagy))
 - Seogi Kang ([@sgkang](https://github.com/sgkang))
 
-### Benevolent Dictator for Life
+### Benevolent Dictator for Life (BDFL)
 
 This person is responsible for planning, organization, and direction of the organization's operations and programs. There is an expectation that this person invests efforts in community & organizational strategy as well as in working with the community to develop and act on the long-term vision of the project.
 
