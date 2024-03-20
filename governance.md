@@ -45,7 +45,7 @@ The current BDFL is
 
 ### Maintainers
 
-Maintainers help facilitate pull request reviews, triaging of issues, and software releases. Note that this doesn’t mean that they have to do all of the Pull Request Reviews and Releases; they can delegate or request involvement from other Project Contributors. Maintainers are included in the [Admin Team]( https://github.com/orgs/simpeg/teams/simpeg-admins) on GitHub. They have administrative rights on all repositories in the SimPEG GitHub organization. They also have admin rights on PyPi and Conda Forge. 
+Maintainers help facilitate pull request reviews, triaging of issues, and software releases. Note that this doesn’t mean that they have to do all of the Pull Request Reviews and Releases; they can delegate or request involvement from other Project Contributors. Maintainers are included in the [Admin Team](https://github.com/orgs/simpeg/teams/simpeg-admins) on GitHub. They have administrative rights on all repositories in the SimPEG GitHub organization. They also have admin rights on PyPI and Conda Forge. 
 
 Maintainers are appointed by the BDFL, in consultation with current maintainers and project Founders.
 
