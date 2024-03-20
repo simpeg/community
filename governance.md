@@ -95,7 +95,7 @@ Suggestions to governance processes can always be raised in the interm at weekly
 
 ## Document History
 
-- 2024 Mar 20: update governance to retire "Director" titles in favour of Maintainers (replacing the "Director of Operations") and a BDFL (replacing the "Managing Director"). This brings SimPEG more in line with BDFL language used by other projects
+- 2024 Mar 20: update governance to retire "Director" titles in favour of Maintainers (replacing the "Director of Operations") and a BDFL (replacing the "Managing Director"). This brings SimPEG more in line with BDFL language used by other projects. Changes were made in https://github.com/simpeg/community/pull/18.
 - 2021 Apr 5: SimPEG governance suggested next steps [doc](https://docs.google.com/document/d/1Y8FZjDGZFC0dJveh-JNRuCXkOrtbrSFpZ55xi5VXDQ4/edit#), [video recording](https://youtu.be/EeoqqxmBGf0)
 - 2020 Dec 10: Governance sketch [doc](https://docs.google.com/document/d/1O9jiYvKClRvV0tcrQOA5PgEoTZ4e-gvAut2sgYM_-ho/edit#), [video recording](https://youtu.be/oLUHdmpbHNI)
 
